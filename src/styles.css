@@ -477,7 +477,7 @@ select.text-input { cursor: pointer; }
 .connection-error h1 { margin: 10px 0 7px; color: #304a3f; font-family: 'Newsreader', Georgia, serif; font-size: 27px; font-weight: 500; }
 .connection-error p { font-size: 12px; line-height: 1.6; overflow-wrap: anywhere; }
 .inline-actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; }
-.account-panel { position: absolute; right: 14px; bottom: 16px; left: 14px; display: flex; flex-direction: column; gap: 8px; padding: 13px 10px 0; border-top: 1px solid rgba(226, 240, 232, .15); }
+.account-panel { position: static; margin-top: 12px; display: flex; flex-direction: column; gap: 8px; padding: 13px 10px 0; border-top: 1px solid rgba(226, 240, 232, .15); }
 .account-role { display: flex; align-items: center; gap: 7px; color: #b6d2c3; font-size: 10px; }
 .sidebar-dot { width: 6px; height: 6px; border-radius: 50%; background: #8dc7a8; }
 .account-panel .button { justify-content: flex-start; min-height: 34px; padding: 0 9px; color: #e5efe8; font-size: 10px; }
