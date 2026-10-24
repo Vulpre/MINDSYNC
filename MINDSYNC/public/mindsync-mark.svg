@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="MINDSYNC linked-loop checkmark">
+  <rect width="128" height="128" rx="28" fill="#153b34"/>
+  <g fill="none" stroke-linecap="round" stroke-width="8">
+    <ellipse cx="47" cy="49" rx="27" ry="17" stroke="#9fd7c7" transform="rotate(-42 47 49)"/>
+    <ellipse cx="81" cy="78" rx="27" ry="17" stroke="#e1f2ec" transform="rotate(-42 81 78)"/>
+  </g>
+  <path d="m51 66 9 9 20-24" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"/>
+</svg>
